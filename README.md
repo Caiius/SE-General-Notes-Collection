@@ -7,8 +7,9 @@ This is a collection of notes that have been amassed over my experience as a SE.
 3. Java Springboot
 4. Design Patterns
 5. Docker
-6. SQL and Relational Dbs
+6. SQL and Relational dBs
 7. Java API Design & Best Practices
 8. Java
-9. Apache Kafka
-10. Vanilla Javascript
+9. [Apache Kafka](Kafka.md)
+10. Vanilla JavaScript
+11. Kubernetes
